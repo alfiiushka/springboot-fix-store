@@ -17,6 +17,7 @@
         </#list>
     </table>
     <a href="/save-product">Go to adding products</a>
+    <a href="/logout">Exit</a>
 </div>
 
 </body>

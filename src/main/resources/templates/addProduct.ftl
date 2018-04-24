@@ -13,6 +13,7 @@
         <input type="submit" value="Add product">
     </form>
     <a href="/all-products">Go to products list</a>
+    <a href="/logout">Exit</a>
 </div>
 </body>
 
